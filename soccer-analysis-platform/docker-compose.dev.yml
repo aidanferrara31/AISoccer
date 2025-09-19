@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  # Add services as they are developed
+  # Example structure:
+  
+  # detection-service:
+  #   build: ./services/detection_service
+  #   ports:
+  #     - "8001:8001"
+  #   volumes:
+  #     - ./data:/app/data
+  #   environment:
+  #     - ENV=development
+
+  # Add database, message queue, etc. as needed

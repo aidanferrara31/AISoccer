@@ -1,0 +1,20 @@
+{
+  "models": [
+    "keypoint_rcnn",
+    "formation_classifier"
+  ],
+  "components": [
+    "keypoint_detection",
+    "pitch_mapping",
+    "formation_analysis"
+  ],
+  "data_sources": [
+    "annotated_keypoints",
+    "tactical_scenarios"
+  ],
+  "outputs": [
+    "stadium_keypoints",
+    "formation_recognition",
+    "tactical_metrics"
+  ]
+}

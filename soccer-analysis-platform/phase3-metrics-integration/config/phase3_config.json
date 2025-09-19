@@ -1,0 +1,19 @@
+{
+  "integrations": [
+    "opta_api",
+    "statsbomb_api"
+  ],
+  "components": [
+    "metrics_engine",
+    "performance_optimization",
+    "data_pipelines"
+  ],
+  "optimization": [
+    "tensorrt",
+    "model_quantization"
+  ],
+  "outputs": [
+    "enriched_metrics",
+    "performance_reports"
+  ]
+}

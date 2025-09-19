@@ -1,0 +1,19 @@
+{
+  "project_name": "Soccer Analysis Platform",
+  "version": "1.0.0",
+  "phases": {
+    "phase1": "Detection & Tracking Prototype",
+    "phase2": "Stadium Keypoints & Formation Analytics",
+    "phase3": "Performance Metrics & Integrations",
+    "phase4": "Production Hardening",
+    "phase5": "Commercialization & Enhancements"
+  },
+  "services": [
+    "video_ingestion",
+    "detection_service",
+    "tracking_service",
+    "team_classifier",
+    "analytics_engine",
+    "visualization_api"
+  ]
+}
